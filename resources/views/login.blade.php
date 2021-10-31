@@ -1,23 +1,20 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
+        <title>Microblog Login</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
-
         <!-- Styles -->
         <style>
-            @tailwind base;
+            /* @tailwind base;
             @tailwind components;
-            @tailwind utilities;
-
-            body {
-                font-family: 'Nunito', sans-serif;
-            }
+            @tailwind utilities; */
         </style>
     </head>
     <body>
-        
+        <div>
+
+        </div>
     </body>
 </html>
